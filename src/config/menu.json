@@ -1,0 +1,39 @@
+{
+  "main": [
+    {
+      "name": "Lar",
+      "url": "/"
+    },
+    {
+      "name": "Sobre",
+      "url": "/about"
+    },
+    {
+      "name": "Blogue",
+      "url": "/blog"
+    },
+    {
+      "name": "Contato",
+      "url": "/contact"
+    }
+  ],
+
+  "footer": [
+    {
+      "name": "Sobre",
+      "url": "/about"
+    },
+    {
+      "name": "Blogue",
+      "url": "/blog"
+    },
+    {
+      "name": "Contato",
+      "url": "/contact"
+    },
+    {
+      "name": "Termos e Condições",
+      "url": "/terms-and-conditions"
+    }
+  ]
+}

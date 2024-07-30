@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "2GF Innovation Systems",
+    "base_url": "https://2gfinnovationsystems.pt/",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "147",
+    "logo_height": "50",
+    "logo_text": "2GF Innovation Systems"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 100,
+    "blog_folder": "blog"
+  },
+
+  "call_to_action": {
+    "title": "Os nossos Trabalhos",
+    "description": "No vasto universo da internet, cada blog é uma janela única para a alma do autor. Compartilhe suas ideias, sonhos e paixões, e permita que sua criatividade ilumine o mundo, inspirando todos que cruzam o seu caminho.",
+    "button": {
+      "label": "Veja o nosso Blogue",
+      "link": "/blog"
+    }
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "params": {
+    "footer_description": "Existe uma força motriz mais poderosa que o vapor, a eletricidade e a energia atômica: a vontade.",
+    "location": "Centro de Inovação Empresarial da Covilhã - R. António Augusto de Aguiar, 6200-053 Covilhã",
+    "email": "hello@2gfinnovationsystems.pt",
+    "phone": "+351 969 059 898",
+    "contact_form_action": "#",
+    "copyright": "Direito Autoral © 2024 por [2GF Innovation Systems](https://2gfinnovationsystems.pt/). </br> Todos os meus direitos reservados."
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "pinwheel astro"
+  }
+}
